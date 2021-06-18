@@ -1,0 +1,23 @@
+
+body{
+    background-color: aquamarine;
+}
+
+.navBar {
+    background-color: white;
+    height: 55px;
+    display: flex;
+}
+
+.navBar .links {
+    /* color: black; */
+    display: flex;
+    flex-direction: row;
+    /* align-items: center; */
+    justify-content: space-around;
+    list-style-type: none;   /* removes the bullet points */
+    margin-left: auto;      /* moves it all to the left */
+    flex: 1;
+    max-width: 650px;
+    font-size: 18px;
+  }
