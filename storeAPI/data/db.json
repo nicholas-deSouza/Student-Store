@@ -17,6 +17,24 @@
       "source": "https://world.openfoodfacts.org/cgi/product_image.pl?code=8964000090879&id=front_en",
       "description": "No one knows what's in the powder that covers these snacks, but wow is it amazing!",
       "price": 1.5
+    },
+    {
+      "id": 3,
+      "name": "Coca-Cola",
+      "category": "food",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi5.walmartimages.com%2Fasr%2Fc39b32b1-ad30-4c0e-a77e-d4d305244e4c.f7d7813089269be26cc1a40705e86888.jpeg&f=1&nofb=1",
+      "source": "https://www.walmart.com/ip/Coca-Cola-Soda-Soft-Drink-Kosher-2-Liters/303954989",
+      "description": "One of the most popular soft drinks in the world!",
+      "price": 0.99
+    },
+    {
+      "id": 4,
+      "name": "Doritos",
+      "category": "food",
+      "image": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn3.volusion.com%2Farhpf.pqwoe%2Fv%2Fvspfiles%2Fphotos%2F135-3.jpg%3F1487094421&f=1&nofb=1",
+      "source": "https://www.officesoda.com/product-p/135.htm",
+      "description": "These cheesy chips are always great any time of the day!",
+      "price": 0.99
     }
   ],
   "transfers": [],

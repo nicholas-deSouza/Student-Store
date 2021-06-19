@@ -13,6 +13,19 @@ router.get("/", async (req, res, next) => {
     }
   })
 
+router.get("/:productsID", async (req, res, next) => {
+    try {
+      const productsID = req.params.productsID;
+      const product = await Store.getProductID(productsID);
+      res.status(200).json({ product })
+    }catch (err) {
+      next (err);
+    }
+    
+})
+
+
+
 
 
 // router.get("/", async(req, res, next) =>{

@@ -1,0 +1,20 @@
+.ProductCard{
+    height:350px;
+    width:250px;
+    flex-direction: column;
+    display: flex;
+}
+
+.ProductCard .Picture{
+    height: 250px;
+    width: 100%;
+}
+
+.ProductCard .Picture img{
+    height: 150px;
+    width: 248px;
+}
+
+.ProductCard .product-name{
+    font-size: 24px;
+}

@@ -8,6 +8,21 @@ class Store {
         return products;
     }
 
+
+
+    static async getProductID(productID){
+        const product = storage;
+          storage.get("products")
+          storage.find({id:Number(productID)})
+          storage.value()
+          return product;
+
+        //   const product = storage
+        //   .get("products")
+        //   .find({ id: Number(productId) })
+        //   .value();
+        // return product;
+    }
 }
 
 
