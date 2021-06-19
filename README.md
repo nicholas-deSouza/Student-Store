@@ -1,7 +1,7 @@
 
 ## Week 2 Assignment: Student Store
 
-Submitted by: **Nicholas de Souza **
+Submitted by: **Nicholas de Souza**
 
 Deployed Application (optional): [Student Store Deployed Site](ADD_LINK_HERE)
 
